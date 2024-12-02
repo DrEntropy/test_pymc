@@ -1,0 +1,9 @@
+name: pymc2
+channels:
+  - conda-forge
+dependencies:
+  - python==3.12.7
+  - jupyter
+  - pip
+  - pip:
+    - pymc==5.18.2

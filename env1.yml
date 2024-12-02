@@ -1,0 +1,8 @@
+name: pymc1
+channels:
+  - conda-forge
+dependencies:
+  - arviz
+  - pymc
+  - jupyter
+  - pip
